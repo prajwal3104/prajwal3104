@@ -2,6 +2,9 @@
 <h3 align="center">A passionate ML Developer, with a knack for Data engineering from India 🇮🇳</h3>
 
 
+<img src="https://github.com/prajwal3104/prajwal3104/assets/70045720/4d4ec886-b412-4d0c-a397-ecd240b96f66" alt="Image" width="100%">
+
+
 <h1 align="left">About Me:</h1>
 
 - 🔭 I’m currently working with [GDSC LPU](https://gdsclpu.live/)
