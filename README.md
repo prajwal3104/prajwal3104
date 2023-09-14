@@ -1,11 +1,6 @@
 <h1 align="center">Hey there 👋, 𝐼'𝑚 Prajwal Kumbar 👨🏻</h1>
 <h3 align="center">A passionate ML Developer, with a knack for Data engineering from India 🇮🇳</h3>
 
-<br>
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=prajwal3104&label=Profile%20views&color=B048B5&style=plastic" alt="prajwal3104" />
-</p>
-<br>
 
 <h1 align="left">About Me:</h1>
 
@@ -21,6 +16,8 @@ Feel free to reach out! 📨
 [![Gmail](https://img.shields.io/badge/Gmail-%ffa700.svg?logo=Gmail&logoColor=white)](mailto:prajwal0836@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/prajwal-kumbar) 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/prajwal_b_k)
+
+<img src="https://komarev.com/ghpvc/?username=prajwal3104&label=Profile%20views&color=B048B5&style=plastic" alt="prajwal3104" />
 
 <h3 align="center">Languages and Tools:</h3>
 <p align="center"> 
