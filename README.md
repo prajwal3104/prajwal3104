@@ -22,7 +22,7 @@
 
 [![Gmail](https://img.shields.io/badge/Gmail-%ffa700.svg?logo=Gmail&logoColor=white)](mailto:prajwal0836@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/prajwal-kumbar) 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/prajwal_b_k)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/prajwal_b_k/)
 
 <img src="https://komarev.com/ghpvc/?username=prajwal3104&label=Profile%20views&color=B048B5&style=plastic" alt="prajwal3104" />
 
