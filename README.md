@@ -25,6 +25,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/prajwal_b_k/)
 
 <img src="https://komarev.com/ghpvc/?username=prajwal3104&label=Profile%20views&color=B048B5&style=plastic" alt="prajwal3104" />
+<a href="https://wakatime.com/@a015658b-a50e-435d-981d-342ca0b50208"><img src="https://wakatime.com/badge/user/a015658b-a50e-435d-981d-342ca0b50208.svg" alt="Total time coded since Sep 14 2023" /></a>
 
 <h3 align="center">Languages and Tools:</h3>
 <p align="center"> 
