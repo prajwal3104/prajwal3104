@@ -27,6 +27,7 @@
 <img src="https://komarev.com/ghpvc/?username=prajwal3104&label=Profile%20views&color=B048B5&style=plastic" alt="prajwal3104" />
 <a href="https://wakatime.com/@a015658b-a50e-435d-981d-342ca0b50208"><img src="https://wakatime.com/badge/user/a015658b-a50e-435d-981d-342ca0b50208.svg" alt="Total time coded since Sep 14 2023" /></a>
 
+---
 <h3 align="center">Languages and Tools:</h3>
 <p align="center"> 
 <img src="https://skillicons.dev/icons?i=androidstudio,aws,azure,bash,c,cpp,cloudflare,devto,django,docker,dynamodb,figma,firebase,flask,gcp,git,github,go,html,ai,ipfs,idea,java,js,jenkins,kafka,kubernetes,latex,linux,md,matlab,mongodb,mysql,nodejs,postman,postgres,powershell,py,pytorch,replit,svg,stackoverflow,tensorflow,ts,vscode workers&perline=8&theme=dark" />
@@ -37,7 +38,9 @@
 <div align="center">
   
   ![](https://github-readme-stats.vercel.app/api?username=prajwal3104&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+  ---
   ![](https://github-readme-streak-stats.herokuapp.com/?user=prajwal3104&theme=dark&hide_border=false)<br/>
+  ---
   ![](https://github-readme-stats.vercel.app/api/top-langs/?username=prajwal3104&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 </div>
