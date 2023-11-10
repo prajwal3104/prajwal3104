@@ -7,12 +7,13 @@
 
 <h1 align="left">About Me:</h1>
 
-- 🔭 I’m currently working with [GDSC LPU](https://gdsclpu.dev)
-- 🌱 I’m currently learning **MLOps and Bigdata**
-- 👯 I’m looking to collaborate on MLOps Projects
-- 🫂 I’m happy to help with Machine Learning projects.
-- 🔧 I'm Versatile and eager to adapt to new tech.
-- 🤝  I'm Open to New Opportunities and Exciting Collaborations.
+- 🔭 I’m currently working with [GDSC LPU](https://gdsclpu.dev),
+- 🦾 I'm community Builder for [TFUG Jalandhar](https://github.com/TFUGJalandhar) as Co-organizer,
+- 🌱 I’m currently learning **MLOps and Bigdata**,
+- 👯 I’m looking to collaborate on **MLOps Projects**,
+- 🫂 I’m happy to help with Machine Learning projects,
+- 🔧 I'm Versatile and eager to adapt to new tech,
+- 🤝 I'm Open to New Opportunities and Exciting Collaborations.
 
 <div style="display: flex; justify-content: center;">
   <div style="text-align: center;">
