@@ -33,7 +33,7 @@
 ---
 <h3 align="center">Languages and Tools:</h3>
 <p align="center"> 
-<img src="https://skillicons.dev/icons?i=androidstudio,aws,azure,bash,c,cpp,cloudflare,devto,django,docker,dynamodb,figma,firebase,flask,gcp,git,github,go,html,ai,ipfs,idea,java,js,jenkins,kafka,kubernetes,latex,linux,md,matlab,mongodb,mysql,nodejs,postman,postgres,powershell,py,pytorch,replit,svg,stackoverflow,tensorflow,ts,vscode workers&perline=8&theme=dark" />
+<img src="https://skillicons.dev/icons?i=androidstudio,aws,azure,bash,c,cpp,css,cloudflare,django,docker,dynamodb,figma,firebase,flask,gcp,git,github,go,html,idea,java,js,jenkins,kafka,kubernetes,latex,linux,matlab,mongodb,mysql,nextjs,nodejs,postman,postgres,powershell,py,pytorch,tensorflow,ts,vscode workers&perline=8&theme=dark" />
 </p>
 
 # 📊 GitHub Stats:
