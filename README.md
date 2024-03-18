@@ -18,7 +18,9 @@
 
 <div style="display: flex; justify-content: center;">
   <div style="text-align: center;">
+    <a href="https://github.com/prajwal3104?tab=repositories" target="_blank">
     <img width="600" src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=30&duration=2000&color=00f200&width=535&lines=Checkout+my+work;let's+Connect!" alt="Follow your Dreams!"/>
+</a>
   </div>
 </div>
 
