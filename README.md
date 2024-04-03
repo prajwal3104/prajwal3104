@@ -6,15 +6,24 @@
 <!--<img src="https://github.com/prajwal3104/prajwal3104/assets/70045720/4d4ec886-b412-4d0c-a397-ecd240b96f66" alt="Image" width="100%"> -->
 
 
-<h1 align="left">About Me:</h1>
-
-<!-- - 🔭 I’m currently working with [GDSC LPU](https://gdsclpu.dev), -->
-- 🦾 I'm community Builder for [TFUG Jalandhar](https://github.com/TFUGJalandhar) as Co-organizer,
-- 🌱 I’m currently learning **MLOps and Bigdata**,
-- 👯 I’m looking to collaborate on **MLOps Projects**,
-- 🫂 I’m happy to help with Machine Learning projects,
-- 🔧 I'm Versatile and eager to adapt to new tech,
-- 🤝 I'm Open to New Opportunities and Exciting Collaborations.
+<div style="display: flex;">
+  <div style="flex: 1;">
+    <h1>About Me:</h1>
+    <!-- About Me content -->
+    <ul>
+      <!-- List items go here -->
+      <li>🦾 I'm community Builder for <a href="https://github.com/TFUGJalandhar">TFUG Jalandhar</a> as Co-organizer</li>
+      <li>🌱 I’m currently learning <strong>MLOps and Bigdata</strong></li>
+      <li>👯 I’m looking to collaborate on <strong>MLOps Projects</strong></li>
+      <li>🫂 I’m happy to help with Machine Learning projects</li>
+      <li>🔧 I'm Versatile and eager to adapt to new tech</li>
+      <li>🤝 I'm Open to New Opportunities and Exciting Collaborations</li>
+    </ul>
+  </div>
+  <div style="flex;">
+    <img alt="associate-cloud-engineer-certification" src="https://github.com/prajwal3104/prajwal3104/assets/70045720/053c1922-d1f6-418c-89f0-797384b9b5d8" width="13%">
+  </div>
+</div>
 
 <div style="display: flex; justify-content: center;">
   <div style="text-align: center;">
