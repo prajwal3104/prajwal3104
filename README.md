@@ -10,6 +10,9 @@
   <div style="flex: 1;">
     <h1>About Me:</h1>
     <!-- About Me content -->
+    <div style="margin-left: -50px;">
+  <img height="150" src="https://github.com/prajwal3104/prajwal3104/assets/70045720/053c1922-d1f6-418c-89f0-797384b9b5d8" width="150" align="right" />
+</div>
     <ul>
       <!-- List items go here -->
       <li>🦾 I'm community Builder for <a href="https://github.com/TFUGJalandhar">TFUG Jalandhar</a> as Co-organizer</li>
@@ -19,9 +22,6 @@
       <li>🔧 I'm Versatile and eager to adapt to new tech</li>
       <li>🤝 I'm Open to New Opportunities and Exciting Collaborations</li>
     </ul>
-  </div>
-  <div style="flex;">
-    <img alt="associate-cloud-engineer-certification" src="https://github.com/prajwal3104/prajwal3104/assets/70045720/053c1922-d1f6-418c-89f0-797384b9b5d8" width="13%">
   </div>
 </div>
 
