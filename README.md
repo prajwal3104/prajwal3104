@@ -25,6 +25,8 @@
   </div>
 </div>
 
+<a href="https://gitroll.io/profile/uWO3idevCs0NwOIUiqxsqWb5VVfP2" target="_blank"><img src="https://gitroll.io/api/badges/profiles/v1/uWO3idevCs0NwOIUiqxsqWb5VVfP2" alt="GitRoll Profile Badge"/></a>
+
 <div style="display: flex; justify-content: center;">
   <div style="text-align: center;">
     <a href="https://github.com/prajwal3104?tab=repositories" target="_blank">
