@@ -25,7 +25,7 @@
   </div>
 </div>
 
-<a href="https://gitroll.io/profile/uWO3idevCs0NwOIUiqxsqWb5VVfP2" target="_blank"><img src="https://gitroll.io/api/badges/profiles/v1/uWO3idevCs0NwOIUiqxsqWb5VVfP2" alt="GitRoll Profile Badge"/></a>
+
 
 <div style="display: flex; justify-content: center;">
   <div style="text-align: center;">
@@ -57,8 +57,7 @@
   ---
   ![](https://github-readme-streak-stats.herokuapp.com/?user=prajwal3104&theme=dark&hide_border=false)<br/>
   ---
-  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=prajwal3104&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
+ <a width="40" href="https://gitroll.io/profile/uWO3idevCs0NwOIUiqxsqWb5VVfP2" target="_blank"><img src="https://gitroll.io/api/badges/profiles/v1/uWO3idevCs0NwOIUiqxsqWb5VVfP2" alt="GitRoll Profile Badge"/></a>
 </div>
 
 # 🏆 GitHub Trophies
