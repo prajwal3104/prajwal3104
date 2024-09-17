@@ -11,11 +11,16 @@
     <h1>About Me:</h1>
     <!-- About Me content -->
     <div style="margin-left: -50px;">
-  <img height="150" src="https://github.com/prajwal3104/prajwal3104/assets/70045720/053c1922-d1f6-418c-89f0-797384b9b5d8" width="150" align="right" />
-</div>
-    <div style="margin-left: -50px;">
-  <img height="150" src="https://github.com/user-attachments/assets/26b44964-d960-483f-8a8d-924260831435" width="150" align="right" />
-</div>
+      <a href="https://www.credly.com/badges/d88f7195-5cfc-4852-ba06-d2bb547cf2f1/public_url" target="_blank">
+        <img height="150" src="https://github.com/prajwal3104/prajwal3104/assets/70045720/053c1922-d1f6-418c-89f0-797384b9b5d8" width="150" align="right" />
+      </a>
+    </div>
+
+  <div style="margin-left: -50px;">
+    <a herf="https://www.credly.com/badges/78f7bf49-134c-4fa2-b8c2-c9a5276cc906/public_url" target="_blank">
+      <img height="150" src="https://github.com/user-attachments/assets/26b44964-d960-483f-8a8d-924260831435" width="150" align="right" />
+    </a>
+  </div>
     <ul>
       <!-- List items go here -->
       <li>🦾 I'm community Builder for <a href="https://github.com/TFUGJalandhar">TFUG Jalandhar</a> as Co-organizer</li>
